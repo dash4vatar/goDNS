@@ -1,2 +1,2 @@
 # goDNS
-A DNS server implemented in Golang
+A DNS resolver implemented in Rust
