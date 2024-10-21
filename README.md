@@ -1,2 +1,2 @@
-# rust-DNS
-A DNS resolver implemented in Rust
+# rust-Cipher
+A simple Symmetric Key Encryption Technique in Rust.
